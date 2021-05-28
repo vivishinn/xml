@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "bryanscafe.xsl"?>
+<catalog>
+   <menu id="mn101">
+      <title>Beetroot and feta salad</title>
+      <price>$15.00</price>
+      <description>Suitable for vegetarians, made with fresh beetroot</description>
+   </menu>
+
+    <menu id="mn102">
+      <title>Sourdough Rye Sandwich</title>
+      <price>$18.00</price>
+      <description>Cheese and salad sandwich made with organic, sourdough rye bread</description>
+   </menu>
+
+    <menu id="mn103">
+      <title>Spinach Pie and Salad</title>
+      <price>$20.00</price>
+      <description>Tasty pie with salad</description>
+   </menu>
+
+    <menu id="mn104">
+      <title>Feta pancakes with salad</title>
+      <price>$19.50</price>
+      <description>Tasty pancake filled with feta and salad.</description>
+   </menu>
+</catalog>

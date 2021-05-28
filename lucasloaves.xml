@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "lucasloaves.xsl"?>
+<catalog>
+   <bread id="br101">
+      <title>Sourdough White</title>
+      <price>$7.00</price>
+      <description>Our standard sourdough</description>
+   </bread>
+
+    <bread id="br102">
+      <title>Sourdough Rye</title>
+      <price>$8.00</price>
+      <description>Sourdough created with 50% rye flour</description>
+   </bread>
+
+    <bread id="br103">
+      <title>Sourdough Spelt</title>
+      <price>$9.00</price>
+      <description>Sourdough created with 100% spelt flour.</description>
+   </bread>
+
+    <bread id="br104">
+      <title>Sourdough Seeded</title>
+      <price>$9.50</price>
+      <description>Sourdough including a mixture of yummy seeds.</description>
+   </bread>
+</catalog>
